@@ -28,4 +28,5 @@ bin/
 ### Mac OS ###
 .DS_Store
 
-./src/input
+/out/production/aoc2024/input/
+/src/input/
