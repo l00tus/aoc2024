@@ -29,4 +29,8 @@ bin/
 .DS_Store
 
 /out/production/aoc2024/input/
+<<<<<<< Updated upstream
 /src/input/
+=======
+/src/input/
+>>>>>>> Stashed changes
