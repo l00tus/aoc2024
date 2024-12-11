@@ -1,10 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-import days.Day01;
-import days.Day02;
-import days.Day03;
-import days.Day04;
+import days.*;
 import utils.Day;
 public class AdventOfCode {
     public static void main(String[] args) {
@@ -16,6 +13,7 @@ public class AdventOfCode {
         days.add(new Day02());
         days.add(new Day03());
         days.add(new Day04());
+        days.add(new Day05());
 
         for(int i = 0 ; i < days.size() ; i++) {
             Day day = days.get(i);
