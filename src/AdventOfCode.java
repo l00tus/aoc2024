@@ -14,6 +14,7 @@ public class AdventOfCode {
         days.add(new Day03());
         days.add(new Day04());
         days.add(new Day05());
+        days.add(new Day06());
 
         for(int i = 0 ; i < days.size() ; i++) {
             Day day = days.get(i);
